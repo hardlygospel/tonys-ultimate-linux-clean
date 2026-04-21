@@ -1,4 +1,6 @@
 # 🐧⚡ Tony's Ultimate Linux Clean
+
+[![Stars](https://img.shields.io/github/stars/hardlygospel/tonys-ultimate-linux-clean?style=for-the-badge&color=yellow)](https://github.com/hardlygospel/tonys-ultimate-linux-clean/stargazers) [![Forks](https://img.shields.io/github/forks/hardlygospel/tonys-ultimate-linux-clean?style=for-the-badge&color=blue)](https://github.com/hardlygospel/tonys-ultimate-linux-clean/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hardlygospel/tonys-ultimate-linux-clean?style=for-the-badge&color=green)](https://github.com/hardlygospel/tonys-ultimate-linux-clean/commits) [![License](https://img.shields.io/github/license/hardlygospel/tonys-ultimate-linux-clean?style=for-the-badge)](https://github.com/hardlygospel/tonys-ultimate-linux-clean/blob/main/LICENSE)
 ### *For Discord Users & Gamers*
 
 > One command. No intervention. Walk away with a faster, cleaner Linux machine.
